@@ -22,4 +22,4 @@ This approach helps visualize **spatial growth patterns and land use transitions
 
 ### Map
 
-![Temporal Directional Analysis of LULC](/Directional LULC Change Maps of RDA.jpg)
+![Temporal Directional Analysis of LULC](Directional LULC Change Maps of RDA.jpg)
