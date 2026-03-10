@@ -150,10 +150,13 @@ Such insights can support **sustainable urban planning and carbon-conscious land
 # Repository Contents
 
 
+```
 Directional-LULC
 │
-├── directional_LULC_RDA.jpg
-└── README.md
+├── directional_LULC_RDA.jpg   # Directional LULC visualization map
+├── README.md                  # Project documentation
+└── LICENSE                    # MIT License
+```
 
 
 ---
