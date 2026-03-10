@@ -147,3 +147,23 @@ Such insights can support **sustainable urban planning and carbon-conscious land
 ---
 
 # Repository Contents
+
+
+---
+
+# Author
+
+**Md. Habibullah Masbah**  
+Undergraduate Student  
+Department of Urban & Regional Planning  
+Rajshahi University of Engineering & Technology (RUET)
+
+
+---
+
+# License
+
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, and distribute this work with proper attribution.  
+See the [LICENSE](LICENSE) file for more details.
