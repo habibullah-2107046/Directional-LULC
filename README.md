@@ -119,7 +119,7 @@ This analysis was conducted as part of an academic research project titled:
 
 **"Carbon-Conscious Urban Structuring through Land-Specific Carbon Emission"**
 
-The project is financed by the **University Grants Commission (UGC), Bangladesh** and **Rajshahi University of Engineering & Technology (RUET)**. :contentReference[oaicite:0]{index=0}  
+The project is financed by the **University Grants Commission (UGC), Bangladesh** and **Rajshahi University of Engineering & Technology (RUET)**.   
 
 Project details include:
 
