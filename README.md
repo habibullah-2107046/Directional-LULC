@@ -123,11 +123,12 @@ The project is financed by the **University Grants Commission (UGC), Bangladesh*
 
 Project details include:
 
-- **Project Director:** Md. Naimur Rahman, Lecturer, Department of Urban & Regional Planning (URP), RUET  
+- **Project Director:** Md. Naimur Rahman, Lecturer, Department of Urban & Regional Planning (URP), RUET
+- **Project Number:** 10 (Ref. No. DRE/08/RUET/764(52)/Pro/2025-26/10) 
 - **Income Year:** 2025–2026  
 - **Project Duration:** 1 Year  
 - **Research Grant Type:** M.Sc. Research Grant  
-- **Institution:** Rajshahi University of Engineering & Technology (RUET), Bangladesh :contentReference[oaicite:1]{index=1}  
+- **Institution:** Rajshahi University of Engineering & Technology (RUET), Bangladesh  
 
 I contributed to this work as an **Undergraduate Research Assistant**, where I assisted in **spatial analysis, GIS processing, and visualization of land use change patterns**.
 
